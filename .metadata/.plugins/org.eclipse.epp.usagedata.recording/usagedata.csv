@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1385410352766
+java.vm.specification.version,sysinfo,,,"1.7",1385410352766
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1385410352766
+java.vm.version,sysinfo,,,"23.25-b01",1385410352766
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1385410352897
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1385410353212
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1385410353270
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1385410353678
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1385410353679
+started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1385410353680
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1385410354278
+started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1385410354304
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1385410354328
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1385410356090
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1385410356115
+started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1385410356363
+started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1385410356365
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1385410356452
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1385410356621
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1385411699336
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1385489934872
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1385489935575
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1385489938354
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1385489938394
+error,log,,,"Exception loading preferences from: /jbpm-web-project/.settings/org.eclipse.jdt.core.prefs.",1385489938588
